@@ -1,0 +1,11 @@
+&parametros
+  nt = 1024
+  nxi = 5000
+  save_every = 50
+
+  taumin = -40.0
+  taumax =  40.0
+
+  ximax = 5.0
+  Nsol = 3.0
+/
